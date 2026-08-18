@@ -1,6 +1,6 @@
 # PROJECT SPECIFICATION FOR A CODING AGENT
 
-## Project Name
+## Project Name 
 
 **PredictiveShard AI — Proactive Distributed-System Failure Prevention Platform**
 
